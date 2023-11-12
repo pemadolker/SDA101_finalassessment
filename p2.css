@@ -1,0 +1,106 @@
+.parent-div {
+    width: 1280px;
+    height: 832px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-403-101 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 1280px;
+    height: 832px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background-image: linear-gradient(
+      225.21deg,
+      rgba(187, 183, 183, 1) 0%,
+      rgba(255, 255, 255, 0) 100%
+    );
+  }
+  .RECTANGLE-403-102 {
+    position: absolute;
+    left: 63px;
+    top: 124px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(245, 242, 242, 1);
+  
+    border-radius: 27px;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+  
+    width: 273px;
+    height: 61px;
+    opacity: 1;
+  }
+  .RECTANGLE-403-103 {
+    position: absolute;
+    left: 467px;
+    top: 124px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(245, 242, 242, 1);
+  
+    border-radius: 27px;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+  
+    filter: blur(2px);
+    width: 347px;
+    height: 61px;
+    opacity: 1;
+  }
+  .RECTANGLE-403-105 {
+    position: absolute;
+    left: 945px;
+    top: 124px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(245, 242, 242, 1);
+  
+    border-radius: 27px;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+  
+    filter: blur(2px);
+    width: 273px;
+    height: 61px;
+    opacity: 1;
+  }
+  .RECTANGLE-403-108 {
+    position: absolute;
+    left: 336px;
+    top: 154px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(0, 0, 0, 1);
+  
+    width: 128px;
+    height: 3px;
+    opacity: 1;
+  }
+  .RECTANGLE-403-109 {
+    position: absolute;
+    left: 817px;
+    top: 153px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(0, 0, 0, 1);
+  
+    filter: blur(2px);
+    width: 128px;
+    height: 3px;
+    opacity: 1;
+  }
+  
+  
