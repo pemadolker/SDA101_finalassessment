@@ -142,5 +142,9 @@
     opacity: 1;
     overflow: hidden;
   }
-  
+
+  .back-button {
+    display: block;
+    margin-bottom: 21px;
+    color: rgb(0, 0, 0)404
   
